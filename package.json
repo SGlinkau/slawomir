@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "slawomir",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://SGlinkau.github.io/parcel-project-template",
+  "homepage": "https://sglinkau.github.io/slawomir/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /slawomir/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SGlinkau/parcel-project-template.git"
+    "url": "git+https://github.com/SGlinkau/slawomir.git"
   },
   "keywords": [],
   "author": "Sławomir Glinkau <slawomir.glinkau@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SGlinkau/parcel-project-template/issues"
+    "url": "https://github.com/SGlinkau/slawomir/issues"
   },
   "dependencies": {
     "bootstrap": "^5.3.1",
